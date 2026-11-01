@@ -1,0 +1,52 @@
+[
+  {
+    "issue_id": "ANOM-00001",
+    "issue_type": "Unavailable interviewer",
+    "entity_id": "INT-2026-000001",
+    "expected_outcome": "Scheduling must be rejected",
+    "ground_truth": "positive",
+    "severity": "High",
+    "description": "Interview overlaps an existing interviewer booking.",
+    "resolved": 0
+  },
+  {
+    "issue_id": "ANOM-00002",
+    "issue_type": "Duplicate application",
+    "entity_id": "APP-REQ-2026-000015-CAND-001226",
+    "expected_outcome": "Second application must be rejected",
+    "ground_truth": "positive",
+    "severity": "Medium",
+    "description": "Candidate/requisition pair is already present.",
+    "resolved": 0
+  },
+  {
+    "issue_id": "ANOM-00003",
+    "issue_type": "Missing interview feedback",
+    "entity_id": "APP-REQ-2026-000015-CAND-001226",
+    "expected_outcome": "Stage transition must be blocked",
+    "ground_truth": "positive",
+    "severity": "High",
+    "description": "Application advances without required completed feedback.",
+    "resolved": 0
+  },
+  {
+    "issue_id": "ANOM-00004",
+    "issue_type": "Offer salary outside band",
+    "entity_id": "OFF-2026-000001",
+    "expected_outcome": "Offer approval must be rejected",
+    "ground_truth": "positive",
+    "severity": "High",
+    "description": "Proposed salary is outside the requisition salary band.",
+    "resolved": 0
+  },
+  {
+    "issue_id": "ANOM-00005",
+    "issue_type": "Closed requisition with active applications",
+    "entity_id": "REQ-2026-000002",
+    "expected_outcome": "Exception must be reported",
+    "ground_truth": "positive",
+    "severity": "Medium",
+    "description": "Closed requisition still has active applications.",
+    "resolved": 0
+  }
+]

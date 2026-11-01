@@ -1,0 +1,1 @@
+-- Generated from database.models via SQLAlchemy. Use `python -m data_generator.generator`.

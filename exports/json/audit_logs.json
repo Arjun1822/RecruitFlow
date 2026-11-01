@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "actor": "seed",
+    "action": "CREATE",
+    "entity_type": "Dataset",
+    "entity_id": "seed",
+    "details": "seed=20261022",
+    "occurred_at": "2026-01-01 00:00:00"
+  }
+]

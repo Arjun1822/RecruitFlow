@@ -1,0 +1,3 @@
+import ModulePage from "../components/ModulePage";
+import api from "../services/api";
+export default function Screening() { return <ModulePage title="Resume screening" description="Run explainable screening against active, job-related requisition rules." endpoint="/api/screening/results" columns={[{ key: "id", label: "Application" }, { key: "requisition_id", label: "Requisition" }, { key: "candidate_id", label: "Candidate" }, { key: "screening_score", label: "Match score", render: (row) => <span className="font-bold text-indigo-600">{row.screening_score ?? "—"}%</span> }, { key: "status", label: "Stage" }]} actions={[{ label: "Evaluate", success: "Screening evaluation completed.", run: (row) => api.post("/api/screening/evaluate", { application_id: row.id }) }]} />; }

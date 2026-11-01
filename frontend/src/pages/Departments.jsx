@@ -1,0 +1,2 @@
+import ModulePage from "../components/ModulePage";
+export default function Departments() { return <ModulePage title="Departments" description="Manage organizational ownership for requisitions." endpoint="/api/departments" columns={[{ key: "id", label: "ID" }, { key: "name", label: "Name" }, { key: "description", label: "Description" }]} fields={[{ name: "name", label: "Name" }, { name: "description", label: "Description", required: false }]} />; }

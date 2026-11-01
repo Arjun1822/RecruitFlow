@@ -1,0 +1,60 @@
+check,passed,severity,affected_ids
+Primary-key uniqueness: anomalies,True,Critical,[]
+Primary-key uniqueness: anomaly_fixture_evidence,True,Critical,[]
+Primary-key uniqueness: application_events,True,Critical,[]
+Primary-key uniqueness: applications,True,Critical,[]
+Primary-key uniqueness: approval_history,True,Critical,[]
+Primary-key uniqueness: audit_logs,True,Critical,[]
+Primary-key uniqueness: candidate_skills,True,Critical,[]
+Primary-key uniqueness: candidates,True,Critical,[]
+Primary-key uniqueness: departments,True,Critical,[]
+Primary-key uniqueness: exception_resolutions,True,Critical,[]
+Primary-key uniqueness: feedback,True,Critical,[]
+Primary-key uniqueness: interviewers,True,Critical,[]
+Primary-key uniqueness: interviews,True,Critical,[]
+Primary-key uniqueness: job_requisitions,True,Critical,[]
+Primary-key uniqueness: offers,True,Critical,[]
+Primary-key uniqueness: resume_artifacts,True,Critical,[]
+Primary-key uniqueness: screening_rules,True,Critical,[]
+Primary-key uniqueness: skills,True,Critical,[]
+Primary-key uniqueness: users,True,Critical,[]
+Foreign-key integrity,True,Critical,[]
+Mandatory fields: anomalies,True,High,[]
+Mandatory fields: anomaly_fixture_evidence,True,High,[]
+Mandatory fields: application_events,True,High,[]
+Mandatory fields: applications,True,High,[]
+Mandatory fields: approval_history,True,High,[]
+Mandatory fields: audit_logs,True,High,[]
+Mandatory fields: candidate_skills,True,High,[]
+Mandatory fields: candidates,True,High,[]
+Mandatory fields: departments,True,High,[]
+Mandatory fields: exception_resolutions,True,High,[]
+Mandatory fields: feedback,True,High,[]
+Mandatory fields: interviewers,True,High,[]
+Mandatory fields: interviews,True,High,[]
+Mandatory fields: job_requisitions,True,High,[]
+Mandatory fields: offers,True,High,[]
+Mandatory fields: resume_artifacts,True,High,[]
+Mandatory fields: screening_rules,True,High,[]
+Mandatory fields: skills,True,High,[]
+Mandatory fields: users,True,High,[]
+Application enumerations and derived IDs,True,High,
+Offer status enumeration,True,High,
+Interview enumerations and date ordering,True,High,
+Feedback enumerations and rating ranges,True,High,
+Duplicate applications,True,High,[]
+Interview scheduling conflicts,True,High,[]
+Missing feedback for completed interviews,True,High,[]
+Lifecycle transition validity,True,High,
+Offer salary bands,True,High,
+Offer approval compliance,True,High,
+Application and offer reconciliation,True,High,
+Closed requisitions with active applications,False,Medium,REQ-2026-TEST01
+departments has records,True,Low,
+job_requisitions has records,True,Low,
+candidates has records,True,Low,
+applications has records,True,Low,
+interviews has records,False,Low,
+offers has records,False,Low,
+Intentional anomaly fixtures,False,High,expected five anomaly labels; Duplicate application; Missing interview feedback; Unavailable interviewer; Offer salary outside band; Closed requisition with active applications
+Unlabelled data-quality violations,False,Critical,Closed requisitions with active applications; interviews has records; offers has records

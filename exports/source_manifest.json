@@ -1,0 +1,155 @@
+[
+  {
+    "dataset_filename": "anomalies",
+    "record_count": 5,
+    "generation_method": "seeded synthetic generator",
+    "seed": 20261022,
+    "dataset_version": "1.0.0",
+    "data_provenance": "Fictional data generated locally",
+    "license": "Synthetic; no external data"
+  },
+  {
+    "dataset_filename": "application_events",
+    "record_count": 3000,
+    "generation_method": "seeded synthetic generator",
+    "seed": 20261022,
+    "dataset_version": "1.0.0",
+    "data_provenance": "Fictional data generated locally",
+    "license": "Synthetic; no external data"
+  },
+  {
+    "dataset_filename": "applications",
+    "record_count": 3000,
+    "generation_method": "seeded synthetic generator",
+    "seed": 20261022,
+    "dataset_version": "1.0.0",
+    "data_provenance": "Fictional data generated locally",
+    "license": "Synthetic; no external data"
+  },
+  {
+    "dataset_filename": "approval_history",
+    "record_count": 64,
+    "generation_method": "seeded synthetic generator",
+    "seed": 20261022,
+    "dataset_version": "1.0.0",
+    "data_provenance": "Fictional data generated locally",
+    "license": "Synthetic; no external data"
+  },
+  {
+    "dataset_filename": "audit_logs",
+    "record_count": 1,
+    "generation_method": "seeded synthetic generator",
+    "seed": 20261022,
+    "dataset_version": "1.0.0",
+    "data_provenance": "Fictional data generated locally",
+    "license": "Synthetic; no external data"
+  },
+  {
+    "dataset_filename": "candidate_skills",
+    "record_count": 6998,
+    "generation_method": "seeded synthetic generator",
+    "seed": 20261022,
+    "dataset_version": "1.0.0",
+    "data_provenance": "Fictional data generated locally",
+    "license": "Synthetic; no external data"
+  },
+  {
+    "dataset_filename": "candidates",
+    "record_count": 2000,
+    "generation_method": "seeded synthetic generator",
+    "seed": 20261022,
+    "dataset_version": "1.0.0",
+    "data_provenance": "Fictional data generated locally",
+    "license": "Synthetic; no external data"
+  },
+  {
+    "dataset_filename": "departments",
+    "record_count": 7,
+    "generation_method": "seeded synthetic generator",
+    "seed": 20261022,
+    "dataset_version": "1.0.0",
+    "data_provenance": "Fictional data generated locally",
+    "license": "Synthetic; no external data"
+  },
+  {
+    "dataset_filename": "exception_resolutions",
+    "record_count": 0,
+    "generation_method": "seeded synthetic generator",
+    "seed": 20261022,
+    "dataset_version": "1.0.0",
+    "data_provenance": "Fictional data generated locally",
+    "license": "Synthetic; no external data"
+  },
+  {
+    "dataset_filename": "feedback",
+    "record_count": 202,
+    "generation_method": "seeded synthetic generator",
+    "seed": 20261022,
+    "dataset_version": "1.0.0",
+    "data_provenance": "Fictional data generated locally",
+    "license": "Synthetic; no external data"
+  },
+  {
+    "dataset_filename": "interviewers",
+    "record_count": 100,
+    "generation_method": "seeded synthetic generator",
+    "seed": 20261022,
+    "dataset_version": "1.0.0",
+    "data_provenance": "Fictional data generated locally",
+    "license": "Synthetic; no external data"
+  },
+  {
+    "dataset_filename": "interviews",
+    "record_count": 600,
+    "generation_method": "seeded synthetic generator",
+    "seed": 20261022,
+    "dataset_version": "1.0.0",
+    "data_provenance": "Fictional data generated locally",
+    "license": "Synthetic; no external data"
+  },
+  {
+    "dataset_filename": "job_requisitions",
+    "record_count": 100,
+    "generation_method": "seeded synthetic generator",
+    "seed": 20261022,
+    "dataset_version": "1.0.0",
+    "data_provenance": "Fictional data generated locally",
+    "license": "Synthetic; no external data"
+  },
+  {
+    "dataset_filename": "offers",
+    "record_count": 150,
+    "generation_method": "seeded synthetic generator",
+    "seed": 20261022,
+    "dataset_version": "1.0.0",
+    "data_provenance": "Fictional data generated locally",
+    "license": "Synthetic; no external data"
+  },
+  {
+    "dataset_filename": "resume_artifacts",
+    "record_count": 2000,
+    "generation_method": "seeded synthetic generator",
+    "seed": 20261022,
+    "dataset_version": "1.0.0",
+    "data_provenance": "Fictional data generated locally",
+    "license": "Synthetic; no external data"
+  },
+  {
+    "dataset_filename": "screening_rules",
+    "record_count": 100,
+    "generation_method": "seeded synthetic generator",
+    "seed": 20261022,
+    "dataset_version": "1.0.0",
+    "data_provenance": "Fictional data generated locally",
+    "license": "Synthetic; no external data"
+  },
+  {
+    "dataset_filename": "skills",
+    "record_count": 16,
+    "generation_method": "seeded synthetic generator",
+    "seed": 20261022,
+    "dataset_version": "1.0.0",
+    "data_provenance": "Fictional data generated locally",
+    "license": "Synthetic; no external data"
+  }
+]

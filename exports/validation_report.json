@@ -1,0 +1,360 @@
+{
+  "checks": [
+    {
+      "check": "Primary-key uniqueness: anomalies",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: anomaly_fixture_evidence",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: application_events",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: applications",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: approval_history",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: audit_logs",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: candidate_skills",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: candidates",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: departments",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: exception_resolutions",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: feedback",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: interviewers",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: interviews",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: job_requisitions",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: offers",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: resume_artifacts",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: screening_rules",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: skills",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Primary-key uniqueness: users",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Foreign-key integrity",
+      "passed": true,
+      "severity": "Critical",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: anomalies",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: anomaly_fixture_evidence",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: application_events",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: applications",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: approval_history",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: audit_logs",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: candidate_skills",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: candidates",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: departments",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: exception_resolutions",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: feedback",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: interviewers",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: interviews",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: job_requisitions",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: offers",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: resume_artifacts",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: screening_rules",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: skills",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Mandatory fields: users",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Application enumerations and derived IDs",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": ""
+    },
+    {
+      "check": "Offer status enumeration",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": ""
+    },
+    {
+      "check": "Interview enumerations and date ordering",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": ""
+    },
+    {
+      "check": "Feedback enumerations and rating ranges",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": ""
+    },
+    {
+      "check": "Duplicate applications",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Interview scheduling conflicts",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Missing feedback for completed interviews",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": "[]"
+    },
+    {
+      "check": "Lifecycle transition validity",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": ""
+    },
+    {
+      "check": "Offer salary bands",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": ""
+    },
+    {
+      "check": "Offer approval compliance",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": ""
+    },
+    {
+      "check": "Application and offer reconciliation",
+      "passed": true,
+      "severity": "High",
+      "affected_ids": ""
+    },
+    {
+      "check": "Closed requisitions with active applications",
+      "passed": false,
+      "severity": "Medium",
+      "affected_ids": "REQ-2026-TEST01"
+    },
+    {
+      "check": "departments has records",
+      "passed": true,
+      "severity": "Low",
+      "affected_ids": ""
+    },
+    {
+      "check": "job_requisitions has records",
+      "passed": true,
+      "severity": "Low",
+      "affected_ids": ""
+    },
+    {
+      "check": "candidates has records",
+      "passed": true,
+      "severity": "Low",
+      "affected_ids": ""
+    },
+    {
+      "check": "applications has records",
+      "passed": true,
+      "severity": "Low",
+      "affected_ids": ""
+    },
+    {
+      "check": "interviews has records",
+      "passed": false,
+      "severity": "Low",
+      "affected_ids": ""
+    },
+    {
+      "check": "offers has records",
+      "passed": false,
+      "severity": "Low",
+      "affected_ids": ""
+    },
+    {
+      "check": "Intentional anomaly fixtures",
+      "passed": false,
+      "severity": "High",
+      "affected_ids": "expected five anomaly labels; Duplicate application; Missing interview feedback; Unavailable interviewer; Offer salary outside band; Closed requisition with active applications"
+    },
+    {
+      "check": "Unlabelled data-quality violations",
+      "passed": false,
+      "severity": "Critical",
+      "affected_ids": "Closed requisitions with active applications; interviews has records; offers has records"
+    }
+  ],
+  "passed": 54,
+  "failed": 5
+}

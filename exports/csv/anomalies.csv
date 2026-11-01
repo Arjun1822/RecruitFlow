@@ -1,0 +1,6 @@
+issue_id,issue_type,entity_id,expected_outcome,ground_truth,severity,description,resolved
+ANOM-00001,Unavailable interviewer,INT-2026-000001,Scheduling must be rejected,positive,High,Interview overlaps an existing interviewer booking.,0
+ANOM-00002,Duplicate application,APP-REQ-2026-000015-CAND-001226,Second application must be rejected,positive,Medium,Candidate/requisition pair is already present.,0
+ANOM-00003,Missing interview feedback,APP-REQ-2026-000015-CAND-001226,Stage transition must be blocked,positive,High,Application advances without required completed feedback.,0
+ANOM-00004,Offer salary outside band,OFF-2026-000001,Offer approval must be rejected,positive,High,Proposed salary is outside the requisition salary band.,0
+ANOM-00005,Closed requisition with active applications,REQ-2026-000002,Exception must be reported,positive,Medium,Closed requisition still has active applications.,0

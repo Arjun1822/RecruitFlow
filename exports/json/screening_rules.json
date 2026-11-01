@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "requisition_id": "REQ-2026-000001",
+    "required_skills": "Java,Python",
+    "preferred_skills": "AWS,Tableau",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 2,
+    "requisition_id": "REQ-2026-000002",
+    "required_skills": "Kubernetes,Figma",
+    "preferred_skills": "Excel,Communication",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 3,
+    "requisition_id": "REQ-2026-000003",
+    "required_skills": "AWS,JavaScript",
+    "preferred_skills": "Tableau,Python",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 4,
+    "requisition_id": "REQ-2026-000004",
+    "required_skills": "SQL,Figma",
+    "preferred_skills": "Agile,Excel",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 5,
+    "requisition_id": "REQ-2026-000005",
+    "required_skills": "Git,Figma",
+    "preferred_skills": "Communication,Tableau",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 6,
+    "requisition_id": "REQ-2026-000006",
+    "required_skills": "Java,JavaScript",
+    "preferred_skills": "React,Java",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 7,
+    "requisition_id": "REQ-2026-000007",
+    "required_skills": "AWS,Pandas",
+    "preferred_skills": "Git,Tableau",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 8,
+    "requisition_id": "REQ-2026-000008",
+    "required_skills": "Git,AWS",
+    "preferred_skills": "Python,Java",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 9,
+    "requisition_id": "REQ-2026-000009",
+    "required_skills": "JavaScript,Java",
+    "preferred_skills": "SQL,Figma",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 10,
+    "requisition_id": "REQ-2026-000010",
+    "required_skills": "Java,AWS",
+    "preferred_skills": "Python,Agile",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 11,
+    "requisition_id": "REQ-2026-000011",
+    "required_skills": "AWS,Communication",
+    "preferred_skills": "Azure,SQL",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 12,
+    "requisition_id": "REQ-2026-000012",
+    "required_skills": "React,Agile",
+    "preferred_skills": "Git,SQL",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 13,
+    "requisition_id": "REQ-2026-000013",
+    "required_skills": "Figma,Git",
+    "preferred_skills": "Kubernetes,Communication",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 14,
+    "requisition_id": "REQ-2026-000014",
+    "required_skills": "Python,Pandas",
+    "preferred_skills": "Figma,Tableau",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 15,
+    "requisition_id": "REQ-2026-000015",
+    "required_skills": "Docker,Pandas",
+    "preferred_skills": "AWS,Agile",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 16,
+    "requisition_id": "REQ-2026-000016",
+    "required_skills": "Kubernetes,Communication",
+    "preferred_skills": "React,Git",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 17,
+    "requisition_id": "REQ-2026-000017",
+    "required_skills": "Git,Java",
+    "preferred_skills": "Excel,Agile",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 18,
+    "requisition_id": "REQ-2026-000018",
+    "required_skills": "Kubernetes,Java",
+    "preferred_skills": "Azure,Communication",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 19,
+    "requisition_id": "REQ-2026-000019",
+    "required_skills": "Excel,Agile",
+    "preferred_skills": "Python,Kubernetes",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 20,
+    "requisition_id": "REQ-2026-000020",
+    "required_skills": "Excel,Agile",
+    "preferred_skills": "Java,Python",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 21,
+    "requisition_id": "REQ-2026-000021",
+    "required_skills": "Figma,AWS",
+    "preferred_skills": "Docker,Kubernetes",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 22,
+    "requisition_id": "REQ-2026-000022",
+    "required_skills": "Communication,Git",
+    "preferred_skills": "AWS,Tableau",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 23,
+    "requisition_id": "REQ-2026-000023",
+    "required_skills": "Azure,Python",
+    "preferred_skills": "JavaScript,Communication",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 24,
+    "requisition_id": "REQ-2026-000024",
+    "required_skills": "Python,Docker",
+    "preferred_skills": "Excel,Communication",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 25,
+    "requisition_id": "REQ-2026-000025",
+    "required_skills": "Git,Tableau",
+    "preferred_skills": "Java,Figma",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 26,
+    "requisition_id": "REQ-2026-000026",
+    "required_skills": "Agile,Figma",
+    "preferred_skills": "Communication,SQL",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 27,
+    "requisition_id": "REQ-2026-000027",
+    "required_skills": "Excel,React",
+    "preferred_skills": "Azure,Python",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 28,
+    "requisition_id": "REQ-2026-000028",
+    "required_skills": "Excel,Java",
+    "preferred_skills": "JavaScript,Agile",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 29,
+    "requisition_id": "REQ-2026-000029",
+    "required_skills": "Git,Python",
+    "preferred_skills": "Python,Communication",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 30,
+    "requisition_id": "REQ-2026-000030",
+    "required_skills": "Docker,React",
+    "preferred_skills": "SQL,AWS",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 31,
+    "requisition_id": "REQ-2026-000031",
+    "required_skills": "Excel,AWS",
+    "preferred_skills": "Figma,Tableau",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 32,
+    "requisition_id": "REQ-2026-000032",
+    "required_skills": "AWS,Communication",
+    "preferred_skills": "Git,Excel",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 33,
+    "requisition_id": "REQ-2026-000033",
+    "required_skills": "Figma,Azure",
+    "preferred_skills": "Figma,SQL",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 34,
+    "requisition_id": "REQ-2026-000034",
+    "required_skills": "JavaScript,Pandas",
+    "preferred_skills": "AWS,Azure",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 35,
+    "requisition_id": "REQ-2026-000035",
+    "required_skills": "Git,Excel",
+    "preferred_skills": "Tableau,SQL",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 36,
+    "requisition_id": "REQ-2026-000036",
+    "required_skills": "Docker,Git",
+    "preferred_skills": "Agile,Git",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 37,
+    "requisition_id": "REQ-2026-000037",
+    "required_skills": "React,Docker",
+    "preferred_skills": "Kubernetes,Docker",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 38,
+    "requisition_id": "REQ-2026-000038",
+    "required_skills": "AWS,Agile",
+    "preferred_skills": "Git,SQL",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 39,
+    "requisition_id": "REQ-2026-000039",
+    "required_skills": "Kubernetes,Pandas",
+    "preferred_skills": "Git,Kubernetes",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 40,
+    "requisition_id": "REQ-2026-000040",
+    "required_skills": "Java,Pandas",
+    "preferred_skills": "React,Kubernetes",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 41,
+    "requisition_id": "REQ-2026-000041",
+    "required_skills": "SQL,Agile",
+    "preferred_skills": "Figma,Kubernetes",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 42,
+    "requisition_id": "REQ-2026-000042",
+    "required_skills": "Excel,Kubernetes",
+    "preferred_skills": "Kubernetes,Azure",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 43,
+    "requisition_id": "REQ-2026-000043",
+    "required_skills": "Python,Java",
+    "preferred_skills": "JavaScript,Python",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 44,
+    "requisition_id": "REQ-2026-000044",
+    "required_skills": "Git,JavaScript",
+    "preferred_skills": "Tableau,Azure",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 45,
+    "requisition_id": "REQ-2026-000045",
+    "required_skills": "Kubernetes,Tableau",
+    "preferred_skills": "Git,Docker",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 46,
+    "requisition_id": "REQ-2026-000046",
+    "required_skills": "Kubernetes,AWS",
+    "preferred_skills": "Excel,Figma",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 47,
+    "requisition_id": "REQ-2026-000047",
+    "required_skills": "AWS,Git",
+    "preferred_skills": "Python,Excel",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 48,
+    "requisition_id": "REQ-2026-000048",
+    "required_skills": "Java,JavaScript",
+    "preferred_skills": "Pandas,Python",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 49,
+    "requisition_id": "REQ-2026-000049",
+    "required_skills": "JavaScript,Agile",
+    "preferred_skills": "Agile,Azure",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 50,
+    "requisition_id": "REQ-2026-000050",
+    "required_skills": "Agile,Communication",
+    "preferred_skills": "Excel,Docker",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 51,
+    "requisition_id": "REQ-2026-000051",
+    "required_skills": "Docker,Tableau",
+    "preferred_skills": "Excel,JavaScript",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 52,
+    "requisition_id": "REQ-2026-000052",
+    "required_skills": "Excel,Communication",
+    "preferred_skills": "Figma,Git",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 53,
+    "requisition_id": "REQ-2026-000053",
+    "required_skills": "Java,Git",
+    "preferred_skills": "Java,SQL",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 54,
+    "requisition_id": "REQ-2026-000054",
+    "required_skills": "AWS,Docker",
+    "preferred_skills": "AWS,Agile",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 55,
+    "requisition_id": "REQ-2026-000055",
+    "required_skills": "Git,JavaScript",
+    "preferred_skills": "Java,AWS",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 56,
+    "requisition_id": "REQ-2026-000056",
+    "required_skills": "React,JavaScript",
+    "preferred_skills": "React,Pandas",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 57,
+    "requisition_id": "REQ-2026-000057",
+    "required_skills": "Docker,Agile",
+    "preferred_skills": "Python,Pandas",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 58,
+    "requisition_id": "REQ-2026-000058",
+    "required_skills": "Communication,Java",
+    "preferred_skills": "Docker,Git",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 59,
+    "requisition_id": "REQ-2026-000059",
+    "required_skills": "AWS,Kubernetes",
+    "preferred_skills": "Communication,JavaScript",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 60,
+    "requisition_id": "REQ-2026-000060",
+    "required_skills": "Figma,JavaScript",
+    "preferred_skills": "AWS,Kubernetes",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 61,
+    "requisition_id": "REQ-2026-000061",
+    "required_skills": "Kubernetes,Java",
+    "preferred_skills": "Docker,SQL",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 62,
+    "requisition_id": "REQ-2026-000062",
+    "required_skills": "Git,Figma",
+    "preferred_skills": "Docker,Agile",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 63,
+    "requisition_id": "REQ-2026-000063",
+    "required_skills": "Communication,React",
+    "preferred_skills": "Tableau,React",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 64,
+    "requisition_id": "REQ-2026-000064",
+    "required_skills": "SQL,React",
+    "preferred_skills": "Azure,Tableau",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 65,
+    "requisition_id": "REQ-2026-000065",
+    "required_skills": "JavaScript,AWS",
+    "preferred_skills": "Figma,Python",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 66,
+    "requisition_id": "REQ-2026-000066",
+    "required_skills": "React,Python",
+    "preferred_skills": "SQL,Tableau",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 67,
+    "requisition_id": "REQ-2026-000067",
+    "required_skills": "Java,Tableau",
+    "preferred_skills": "JavaScript,Tableau",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 68,
+    "requisition_id": "REQ-2026-000068",
+    "required_skills": "AWS,Python",
+    "preferred_skills": "AWS,Pandas",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 69,
+    "requisition_id": "REQ-2026-000069",
+    "required_skills": "Python,Java",
+    "preferred_skills": "Figma,Kubernetes",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 70,
+    "requisition_id": "REQ-2026-000070",
+    "required_skills": "Git,Python",
+    "preferred_skills": "Communication,Tableau",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 71,
+    "requisition_id": "REQ-2026-000071",
+    "required_skills": "JavaScript,Java",
+    "preferred_skills": "Tableau,JavaScript",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 72,
+    "requisition_id": "REQ-2026-000072",
+    "required_skills": "JavaScript,Tableau",
+    "preferred_skills": "Python,Tableau",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 73,
+    "requisition_id": "REQ-2026-000073",
+    "required_skills": "SQL,React",
+    "preferred_skills": "Azure,Python",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 74,
+    "requisition_id": "REQ-2026-000074",
+    "required_skills": "AWS,JavaScript",
+    "preferred_skills": "Communication,JavaScript",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 75,
+    "requisition_id": "REQ-2026-000075",
+    "required_skills": "Kubernetes,Python",
+    "preferred_skills": "Git,Python",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 76,
+    "requisition_id": "REQ-2026-000076",
+    "required_skills": "Figma,Tableau",
+    "preferred_skills": "Tableau,JavaScript",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 77,
+    "requisition_id": "REQ-2026-000077",
+    "required_skills": "Azure,Java",
+    "preferred_skills": "SQL,Kubernetes",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 78,
+    "requisition_id": "REQ-2026-000078",
+    "required_skills": "Azure,React",
+    "preferred_skills": "React,AWS",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 79,
+    "requisition_id": "REQ-2026-000079",
+    "required_skills": "Docker,JavaScript",
+    "preferred_skills": "React,Java",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 80,
+    "requisition_id": "REQ-2026-000080",
+    "required_skills": "Docker,Figma",
+    "preferred_skills": "Git,Agile",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 81,
+    "requisition_id": "REQ-2026-000081",
+    "required_skills": "Communication,Figma",
+    "preferred_skills": "Tableau,Java",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 82,
+    "requisition_id": "REQ-2026-000082",
+    "required_skills": "SQL,Tableau",
+    "preferred_skills": "SQL,AWS",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 83,
+    "requisition_id": "REQ-2026-000083",
+    "required_skills": "Docker,Azure",
+    "preferred_skills": "SQL,Git",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 84,
+    "requisition_id": "REQ-2026-000084",
+    "required_skills": "Communication,JavaScript",
+    "preferred_skills": "Tableau,JavaScript",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 85,
+    "requisition_id": "REQ-2026-000085",
+    "required_skills": "Azure,Pandas",
+    "preferred_skills": "Python,Figma",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 86,
+    "requisition_id": "REQ-2026-000086",
+    "required_skills": "Kubernetes,Tableau",
+    "preferred_skills": "Communication,JavaScript",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 87,
+    "requisition_id": "REQ-2026-000087",
+    "required_skills": "Azure,Figma",
+    "preferred_skills": "Java,Kubernetes",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 88,
+    "requisition_id": "REQ-2026-000088",
+    "required_skills": "AWS,Tableau",
+    "preferred_skills": "Communication,Figma",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 89,
+    "requisition_id": "REQ-2026-000089",
+    "required_skills": "Agile,JavaScript",
+    "preferred_skills": "AWS,Git",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 90,
+    "requisition_id": "REQ-2026-000090",
+    "required_skills": "Tableau,Excel",
+    "preferred_skills": "Figma,Python",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 91,
+    "requisition_id": "REQ-2026-000091",
+    "required_skills": "Docker,Figma",
+    "preferred_skills": "Pandas,Git",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 92,
+    "requisition_id": "REQ-2026-000092",
+    "required_skills": "Azure,Excel",
+    "preferred_skills": "Communication,Azure",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 93,
+    "requisition_id": "REQ-2026-000093",
+    "required_skills": "Docker,Pandas",
+    "preferred_skills": "Pandas,Git",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 94,
+    "requisition_id": "REQ-2026-000094",
+    "required_skills": "Kubernetes,Python",
+    "preferred_skills": "Communication,Python",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 95,
+    "requisition_id": "REQ-2026-000095",
+    "required_skills": "React,Docker",
+    "preferred_skills": "Git,React",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 96,
+    "requisition_id": "REQ-2026-000096",
+    "required_skills": "Figma,Java",
+    "preferred_skills": "Agile,Excel",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 97,
+    "requisition_id": "REQ-2026-000097",
+    "required_skills": "Figma,Kubernetes",
+    "preferred_skills": "React,Agile",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 98,
+    "requisition_id": "REQ-2026-000098",
+    "required_skills": "Tableau,Kubernetes",
+    "preferred_skills": "Docker,Excel",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 99,
+    "requisition_id": "REQ-2026-000099",
+    "required_skills": "Azure,Docker",
+    "preferred_skills": "Azure,Excel",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  },
+  {
+    "id": 100,
+    "requisition_id": "REQ-2026-000100",
+    "required_skills": "SQL,Azure",
+    "preferred_skills": "Tableau,AWS",
+    "version": 1,
+    "active": 1,
+    "created_at": "2026-01-01 00:00:00",
+    "updated_at": "2026-01-01 00:00:00"
+  }
+]

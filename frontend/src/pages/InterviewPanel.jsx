@@ -1,0 +1,2 @@
+import ModulePage from "../components/ModulePage";
+export default function InterviewPanel() { return <ModulePage title="Interview panel" description="Review active interviewers and their scheduled assignments." endpoint="/api/interviewers" columns={[{ key: "id", label: "ID" }, { key: "name", label: "Name" }, { key: "email", label: "Email" }, { key: "department_id", label: "Department" }, { key: "active", label: "Available" }]} />; }

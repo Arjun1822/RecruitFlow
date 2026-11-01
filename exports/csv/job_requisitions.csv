@@ -1,0 +1,101 @@
+id,department_id,title,openings,min_experience,max_experience,min_salary,max_salary,location,status,requested_by,approved_by,effective_from,created_at,updated_at
+REQ-2026-000001,6,Program Manager,3,5,7,55000.0,75000.0,Hyderabad,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000002,6,Operations Analyst,1,8,11,55000.0,130000.0,Pune,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000003,7,Marketing Specialist,3,1,7,45000.0,100000.0,Hyderabad,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000004,1,Data Engineer,3,1,7,65000.0,85000.0,Chennai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000005,7,Marketing Specialist,8,2,4,45000.0,105000.0,Mumbai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000006,5,Account Executive,3,5,10,85000.0,135000.0,Chennai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000007,4,Recruiter,7,0,6,55000.0,100000.0,Bengaluru,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000008,1,QA Engineer,1,4,6,45000.0,110000.0,Chennai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000009,4,Recruiter,1,7,11,40000.0,60000.0,Mumbai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000010,6,Operations Analyst,4,7,9,100000.0,140000.0,Remote,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000011,7,Content Strategist,1,8,16,60000.0,85000.0,Chennai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000012,1,Software Engineer,1,4,11,80000.0,140000.0,Bengaluru,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000013,3,Financial Analyst,8,6,13,65000.0,140000.0,Remote,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000014,3,Accountant,5,8,15,90000.0,150000.0,Pune,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000015,4,HR Business Partner,6,8,11,50000.0,105000.0,Mumbai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000016,5,Sales Engineer,3,4,11,40000.0,95000.0,Bengaluru,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000017,6,Operations Analyst,2,4,12,95000.0,165000.0,Chennai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000018,7,Marketing Specialist,3,8,13,55000.0,75000.0,Mumbai,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000019,5,Sales Engineer,2,6,9,70000.0,115000.0,Pune,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000020,7,Marketing Specialist,1,1,8,60000.0,110000.0,Remote,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000021,5,Sales Engineer,2,8,14,85000.0,120000.0,Bengaluru,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000022,4,HR Business Partner,2,3,5,55000.0,135000.0,Chennai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000023,2,Business Analyst,6,6,9,95000.0,160000.0,Chennai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000024,3,Financial Analyst,2,0,7,90000.0,125000.0,Chennai,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000025,4,Recruiter,5,2,10,50000.0,105000.0,Remote,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000026,4,HR Business Partner,6,5,7,85000.0,115000.0,Hyderabad,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000027,5,Sales Engineer,8,3,11,45000.0,120000.0,Chennai,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000028,5,Account Executive,3,8,16,45000.0,110000.0,Bengaluru,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000029,4,Recruiter,5,0,3,85000.0,115000.0,Pune,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000030,5,Sales Engineer,1,4,6,80000.0,115000.0,Mumbai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000031,3,Accountant,6,2,6,90000.0,165000.0,Bengaluru,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000032,5,Sales Engineer,3,2,6,75000.0,125000.0,Remote,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000033,2,Product Manager,1,8,11,90000.0,135000.0,Bengaluru,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000034,4,HR Business Partner,6,5,12,50000.0,85000.0,Pune,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000035,3,Financial Analyst,6,7,9,90000.0,145000.0,Mumbai,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000036,7,Marketing Specialist,5,7,15,60000.0,120000.0,Bengaluru,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000037,3,Accountant,7,0,4,40000.0,70000.0,Pune,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000038,5,Account Executive,3,8,10,100000.0,180000.0,Bengaluru,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000039,3,Accountant,5,1,8,85000.0,115000.0,Mumbai,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000040,5,Sales Engineer,1,3,7,45000.0,65000.0,Remote,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000041,5,Sales Engineer,3,7,11,65000.0,85000.0,Pune,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000042,3,Accountant,1,5,7,65000.0,105000.0,Hyderabad,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000043,6,Program Manager,4,5,12,65000.0,85000.0,Remote,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000044,2,Product Manager,2,4,12,100000.0,120000.0,Pune,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000045,2,Product Manager,1,6,10,95000.0,170000.0,Hyderabad,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000046,1,DevOps Engineer,7,3,10,40000.0,60000.0,Mumbai,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000047,6,Program Manager,6,0,5,65000.0,105000.0,Remote,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000048,7,Content Strategist,8,3,9,85000.0,155000.0,Mumbai,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000049,4,HR Business Partner,3,8,13,100000.0,120000.0,Pune,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000050,7,Marketing Specialist,3,1,3,95000.0,120000.0,Pune,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000051,1,DevOps Engineer,1,0,4,95000.0,160000.0,Pune,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000052,6,Program Manager,5,3,5,90000.0,120000.0,Remote,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000053,5,Account Executive,8,7,10,70000.0,145000.0,Pune,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000054,2,Product Manager,2,1,4,90000.0,140000.0,Hyderabad,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000055,1,QA Engineer,3,4,7,40000.0,85000.0,Bengaluru,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000056,7,Marketing Specialist,1,7,10,55000.0,120000.0,Chennai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000057,5,Account Executive,4,6,12,55000.0,85000.0,Mumbai,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000058,2,Product Manager,1,4,11,70000.0,100000.0,Remote,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000059,4,HR Business Partner,5,3,7,50000.0,110000.0,Mumbai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000060,1,DevOps Engineer,5,8,11,80000.0,135000.0,Mumbai,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000061,4,HR Business Partner,3,2,6,50000.0,130000.0,Chennai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000062,6,Program Manager,6,5,12,70000.0,140000.0,Pune,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000063,6,Program Manager,2,3,6,85000.0,150000.0,Mumbai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000064,2,Business Analyst,1,6,8,45000.0,95000.0,Bengaluru,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000065,3,Financial Analyst,5,8,10,85000.0,120000.0,Mumbai,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000066,1,Data Engineer,1,2,8,90000.0,155000.0,Remote,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000067,3,Financial Analyst,4,4,9,60000.0,115000.0,Chennai,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000068,2,Product Manager,3,0,8,90000.0,150000.0,Pune,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000069,6,Program Manager,6,3,8,55000.0,135000.0,Bengaluru,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000070,4,Recruiter,1,7,10,80000.0,120000.0,Mumbai,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000071,4,Recruiter,7,6,9,80000.0,140000.0,Chennai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000072,4,Recruiter,2,6,14,75000.0,145000.0,Bengaluru,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000073,1,Software Engineer,8,5,8,80000.0,100000.0,Pune,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000074,7,Content Strategist,6,8,12,85000.0,145000.0,Pune,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000075,2,Business Analyst,8,4,7,90000.0,170000.0,Hyderabad,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000076,2,Product Manager,3,4,10,90000.0,170000.0,Hyderabad,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000077,5,Account Executive,2,4,12,100000.0,155000.0,Pune,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000078,7,Marketing Specialist,2,5,11,95000.0,145000.0,Hyderabad,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000079,1,DevOps Engineer,3,1,8,80000.0,140000.0,Pune,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000080,7,Marketing Specialist,2,1,5,55000.0,135000.0,Mumbai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000081,2,Product Manager,4,3,6,65000.0,140000.0,Hyderabad,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000082,6,Operations Analyst,5,1,5,45000.0,80000.0,Mumbai,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000083,7,Marketing Specialist,7,1,3,60000.0,125000.0,Bengaluru,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000084,1,Software Engineer,5,3,10,75000.0,130000.0,Bengaluru,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000085,2,Business Analyst,8,4,6,55000.0,110000.0,Remote,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000086,4,HR Business Partner,2,7,11,100000.0,120000.0,Pune,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000087,7,Marketing Specialist,5,2,10,75000.0,110000.0,Pune,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000088,2,Product Manager,3,5,7,85000.0,125000.0,Bengaluru,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000089,4,Recruiter,4,6,12,95000.0,150000.0,Bengaluru,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000090,4,Recruiter,5,3,11,85000.0,120000.0,Remote,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000091,7,Marketing Specialist,4,3,11,55000.0,85000.0,Mumbai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000092,2,Business Analyst,3,7,9,85000.0,110000.0,Chennai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000093,5,Account Executive,6,6,9,55000.0,75000.0,Chennai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000094,5,Account Executive,1,7,9,80000.0,100000.0,Chennai,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000095,3,Financial Analyst,4,0,8,45000.0,75000.0,Mumbai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000096,4,Recruiter,2,0,8,90000.0,110000.0,Pune,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000097,1,Software Engineer,8,7,12,50000.0,70000.0,Chennai,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000098,4,Recruiter,3,5,11,85000.0,120000.0,Pune,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000099,4,Recruiter,4,4,8,75000.0,95000.0,Hyderabad,Closed,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
+REQ-2026-000100,2,Product Manager,1,5,13,95000.0,120000.0,Remote,Approved,requester@example.com,approver@example.com,2026-01-01,2026-01-01,2026-01-01
